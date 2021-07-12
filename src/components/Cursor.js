@@ -3,7 +3,6 @@ import React from "react";
 function Cursor() {
   document.addEventListener("DOMContentLoaded", function () {
     let mouseCursor = document.querySelector(".cursor");
-    let homeBird = document.querySelector(".bird2");
 
     // console.log(mouseCursor);
 
