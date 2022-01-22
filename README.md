@@ -2,10 +2,6 @@
 
   <p align="center">
    Portfolio Website with React 
-    <br />
-    <a href="https://cude-editor.web.app/"><strong>View Live »</strong></a>
-    <br />
-    <br />
   </p>
 </p>
 
@@ -31,7 +27,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hemani-gajjar/CudeEditor.git
+   git clone https://github.com/hemani-gajjar/portfolio-show
    ```
 2. Install NPM packages
    ```sh
