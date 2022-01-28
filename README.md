@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 
   <p align="center">
    Portfolio Website with React 
@@ -10,8 +9,6 @@
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.dev/)
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
